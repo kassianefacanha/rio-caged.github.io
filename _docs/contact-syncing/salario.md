@@ -11,7 +11,7 @@ order: 1
           width="1200px"
           height="700px"
           title="Pilotos"
-          src="https://app.powerbi.com/view?r=eyJrIjoiMTg4MWFkYTgtZWRkZC00NTY2LTk3MDEtNzVjYzQ3MTYxODYwIiwidCI6ImFlZjIxZTExLWNjODgtNGFlZS04OTIxLWRlNWYwOTA5ZGQ3NCJ9&pageName=ReportSection"
+          src="https://app.powerbi.com/groups/me/reports/f21fa3f0-fd42-4f46-aea1-4cab7e637a5b/ReportSection?bookmarkGuid=8835e7c9-31de-4f11-962c-954763addb25&bookmarkUsage=1&ctid=5b6f6241-9a57-4be4-8e50-1dfa72e79a57&fromEntryPoint=export"
           frameborder="0"
           allowfullscreen="true"
         ></iframe>
